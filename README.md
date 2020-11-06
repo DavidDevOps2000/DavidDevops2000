@@ -2,10 +2,6 @@
 ## David Pereira da Silva
  Tecnico de Desenvolvimento de Sistemas.
 
-
-![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-da-silva-30280412a/)[(https://www.linkedin.com/in/david-da-silva-30280412a/)]
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:david.devops2000@gmail.com)](mailto:diego.schell.f@gmail.com)
-
 Desde criança, eu sou um entusiasta em tecnologia e em ajudar/auxiliar as pessoas. Sempre via que tínhamos que ajudar uns aos outros a resolver problemas através do que sabíamos.
   
 Por isso sempre estarei disposto em colaborar com nosso cliente em ter sua problemática resolvida com a melhor metodologia e rápidez.
