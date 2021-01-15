@@ -13,6 +13,9 @@ Por isso sempre estarei disposto em colaborar com nosso cliente em ter sua probl
 
 🙂 Inspiração: Colaborar em Projetos, afim de ajudar o nosso cliente a resolver os desafios do dia a dia.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDevOps2000&layout=compact)](https://github.com/DavidDevOps2000/github-readme-stats)
+
+
 
 ## Organograma de Tecnologias:
 
@@ -28,3 +31,5 @@ Por isso sempre estarei disposto em colaborar com nosso cliente em ter sua probl
 + Banco de Dados
     * MySQL
     * PostgreeSQL
+    
+
