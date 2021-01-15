@@ -21,7 +21,7 @@ Por isso sempre estarei disposto em colaborar com nosso cliente em ter sua probl
 
 🙂 Inspiração: Colaborar em Projetos, afim de ajudar o nosso cliente a resolver os desafios do dia a dia.
 
-### Lista de Tecnologias que já tive contato:
+### Lista de Tecnologias:
 
 + Back End
     + Node.js
