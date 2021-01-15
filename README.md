@@ -13,8 +13,6 @@ Por isso sempre estarei disposto em colaborar com nosso cliente em ter sua probl
 
 🙂 Inspiração: Colaborar em Projetos, afim de ajudar o nosso cliente a resolver os desafios do dia a dia.
 
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&show_owner=true)](https://github.com/facebook/react)
-
 
 ## Organograma de Tecnologias:
 
