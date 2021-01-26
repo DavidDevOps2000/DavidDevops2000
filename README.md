@@ -11,16 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidDevOps2000&layout=compact)](https://github.com/DavidDevOps2000/github-readme-stats)
 
-### Sobre mim:
-
-Desde criança, eu sou um entusiasta em tecnologia e em ajudar/auxiliar as pessoas. Sempre via que tínhamos que ajudar uns aos outros a resolver problemas através do que sabíamos.
-
-Por isso sempre estarei disposto em colaborar com nosso cliente em ter sua problemática resolvida com a melhor metodologia e rápidez.
-
-💻 Stacks:  React, React-Native, Node.js, Python, Javascript + HTML + CSS.
-
-🙂 Inspiração: Colaborar em Projetos, afim de ajudar o nosso cliente a resolver os desafios do dia a dia.
-
 ### Lista de Tecnologias:
 
 + Back End
@@ -35,3 +25,14 @@ Por isso sempre estarei disposto em colaborar com nosso cliente em ter sua probl
 + Banco de Dados
     * MySQL
     * PostgreeSQL
+    
+    
+### Sobre mim:
+
+Desde criança, eu sou um entusiasta em tecnologia e em ajudar/auxiliar as pessoas. Sempre via que tínhamos que ajudar uns aos outros a resolver problemas através do que sabíamos.
+
+Por isso sempre estarei disposto em colaborar com nosso cliente em ter sua problemática resolvida com a melhor metodologia e rápidez.
+
+💻 Stacks:  React, React-Native, Node.js, Python, Javascript + HTML + CSS.
+
+🙂 Inspiração: Colaborar em Projetos, afim de ajudar o nosso cliente a resolver os desafios do dia a dia.
